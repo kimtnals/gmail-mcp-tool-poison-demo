@@ -10,7 +10,7 @@
 ### 1. 가상환경 생성 및 활성화 (Windows 기준)
 
 ```bash
-python -m venv venv
+uv venv
 .\venv\Scripts\activate
 ```
 
